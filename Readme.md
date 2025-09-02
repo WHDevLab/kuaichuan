@@ -35,8 +35,8 @@ html+golang+fyne
 ## 📥 下载方式
 | 设备类型 | 下载链接/获取方式 | 备注 |
 |----------|-------------------|------|
-| Windows | [点击下载.exe安装包](./release/kuaichuan_windows.zip) | 支持 Windows 10/11 系统 |
-| macOS | [点击下载.dmg镜像](./release/kuaichuan.dmg) | 支持 macOS 10.15+ 系统 |
+| Windows | [Windows安装包](./release/kuaichuan_windows.zip](https://github.com/WHDevLab/kuaichuan/releases/tag/1.0.0)) | 支持 Windows 系统 |
+| macOS | [Macos安装包](./release/kuaichuan.dmg](https://github.com/WHDevLab/kuaichuan/releases/tag/1.0.0)) | 支持 macOS 系统 |
 
 
 ## ❓ 常见问题（FAQ）
